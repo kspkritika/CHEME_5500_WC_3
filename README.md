@@ -1,1 +1,4 @@
-# CHEME_5500_WC_3
+# EXPLORATION OF GITHUB
+## WEEKLY CHALLENGE 3
+This assignment is all about getting accustomed with **github**.
+
